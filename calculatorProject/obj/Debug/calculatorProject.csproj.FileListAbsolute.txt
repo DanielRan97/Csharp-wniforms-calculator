@@ -1,0 +1,24 @@
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\bin\Debug\calculatorProject.exe.config
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\bin\Debug\calculatorProject.exe
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\bin\Debug\calculatorProject.pdb
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.Calculator.resources
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.Properties.Resources.resources
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.exe
+C:\Users\danie\source\repos\calculatorProject\calculatorProject\obj\Debug\calculatorProject.pdb
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\bin\Debug\calculatorProject.exe.config
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\bin\Debug\calculatorProject.exe
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\bin\Debug\calculatorProject.pdb
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.Calculator.resources
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.Properties.Resources.resources
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.exe
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.pdb
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\bin\Debug\calculatorProject.exe.manifest
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\bin\Debug\calculatorProject.application
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.exe.manifest
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.application
+C:\Users\danie\Desktop\Full Stack\winform Calculator\calculatorProject\calculatorProject\obj\Debug\calculatorProject.csprojAssemblyReference.cache
